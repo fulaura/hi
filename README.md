@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fulaura.</h1>
 <h3 align="center">A passionate back-end developer and designer from Kazakhstan</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/fulaura/hi/blob/main/ITS%20fin.png">
+
 - 🌱 I’m currently learning **Python and C++**
 
 - 📝 I regularly write articles on [Instagram](https://www.instagram.com/im_fulaura/)
